@@ -1,116 +1,86 @@
 {
-  "updated_at": "2026-10-30T22:28:01.739789+00:00",
+  "updated_at": "2026-10-31T05:53:58.708711+00:00",
   "source_type": "community-reported RSS",
   "errors": [],
   "deals": [
     {
-      "id": "https://slickdeals.net/f/20220528-120-fs-walmart-msi-optix-g32c4w-32-inch-curved-1920x1080-hdmi-dp-165hz-1ms-freesync-lcd-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "32\" MSI Optix G32C4W HDMI DP 165Hz FreeSync LCD Curved Monitor $120",
-      "store": "Reported on Slickdeals Frontpage",
-      "source": "Slickdeals Frontpage",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 120.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20220528-120-fs-walmart-msi-optix-g32c4w-32-inch-curved-1920x1080-hdmi-dp-165hz-1ms-freesync-lcd-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399280730
-    },
-    {
-      "id": "https://slickdeals.net/f/20223633-129-sams-club-msi-31-5-curved-fhd-display-250hz-1ms-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Sam's Club Members: 31.5\" MSI Curved FHD 250Hz 1ms Gaming Monitor $129 + Free S&H Plus Members",
-      "store": "Reported on Slickdeals Frontpage",
-      "source": "Slickdeals Frontpage",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 129.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20223633-129-sams-club-msi-31-5-curved-fhd-display-250hz-1ms-gaming-monitor?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399280730
-    },
-    {
-      "id": "https://slickdeals.net/f/20231076-jlab-jbuds-lux-anc-over-ear-wireless-active-noise-cancelling-headphones-various-colors-39-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "JLab JBuds Lux ANC Over-Ear Wireless Active Noise Cancelling Headphones $40 + Free S&H",
-      "store": "Reported on Slickdeals Frontpage",
-      "source": "Slickdeals Frontpage",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 40.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20231076-jlab-jbuds-lux-anc-over-ear-wireless-active-noise-cancelling-headphones-various-colors-39-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399280731
-    },
-    {
-      "id": "https://slickdeals.net/f/20223363-samsung-epp-edu-40-viewfinity-s8-5k2k-144hz-va-curved-monitor-2026-600-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Samsung EPP/EDU: 40\" ViewFinity S8 5K2K 144Hz VA Curved Monitor (2026) $600 + Free S&H",
-      "store": "Reported on Slickdeals Frontpage",
-      "source": "Slickdeals Frontpage",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 600.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20223363-samsung-epp-edu-40-viewfinity-s8-5k2k-144hz-va-curved-monitor-2026-600-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399280731
-    },
-    {
-      "id": "https://slickdeals.net/f/20161431-249-99-ninja-es601-ninja-luxe-caf-espresso-machine-silver-factory-reconditioned-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Refurbished: Ninja Luxe Café Premier Series Espresso Machine $250 + Free S&H w/ Prime",
+      "id": "https://slickdeals.net/f/20232981-5-quart-overmont-pre-seasoned-cast-iron-double-dutch-oven-w-skillet-lid-23-99-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "5-Qt Overmont 2-in-1 Pre-Seasoned Cast Iron Double Dutch Oven $24 + Free S&H w/ Prime",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Kitchen Appliances",
       "channel": "online",
       "location": "",
-      "price": 250.0,
+      "price": 24.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20161431-249-99-ninja-es601-ninja-luxe-caf-espresso-machine-silver-factory-reconditioned-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20232981-5-quart-overmont-pre-seasoned-cast-iron-double-dutch-oven-w-skillet-lid-23-99-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399280731
+      "created": 1793426037913
     },
     {
-      "id": "https://slickdeals.net/f/20234217-3-97-amazon-sour-patch-kids-ornaments-soft-chewy-gummy-christmas-candy-10-oz?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "$3.97 AMAZON SOUR PATCH KIDS Ornaments Soft & Chewy Gummy Christmas Candy, 10 oz",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
+      "id": "https://slickdeals.net/f/20209029-99-dewalt-bagless-20v-max-stick-cordless-general-dirt-filter-handheld-vacuum-tool-only-at-homedepot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "DeWALT 20V MAX Cordless Handheld HEPA Vacuum (Tool Only) $99 + Free S&H",
+      "store": "Reported on Slickdeals Frontpage",
+      "source": "Slickdeals Frontpage",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 3.97,
+      "price": 99.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20234217-3-97-amazon-sour-patch-kids-ornaments-soft-chewy-gummy-christmas-candy-10-oz?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20209029-99-dewalt-bagless-20v-max-stick-cordless-general-dirt-filter-handheld-vacuum-tool-only-at-homedepot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
+      "created": 1793426037913
     },
     {
-      "id": "https://slickdeals.net/f/20234208-55-doyolan-mid-century-modern-tv-stand-w-sliding-tambour-doors-built-in-power-outlet-base-walnut-99-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "55\" Doyolan Mid-Century Modern TV Stand w/ Sliding Tambour Doors & Built-In Power Outlet (Base-Walnut) $99.99 + Free Shipping",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
+      "id": "https://slickdeals.net/f/20207706-lenovo-16-laptop-eco-backpack-b210-black-11-03-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "Lenovo 16\" Laptop ECO Backpack (Black) $10.50 + Free S&H",
+      "store": "Reported on Slickdeals Frontpage",
+      "source": "Slickdeals Frontpage",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 99.99,
+      "price": 10.5,
       "original": 0,
-      "url": "https://slickdeals.net/f/20234208-55-doyolan-mid-century-modern-tv-stand-w-sliding-tambour-doors-built-in-power-outlet-base-walnut-99-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20207706-lenovo-16-laptop-eco-backpack-b210-black-11-03-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
+      "created": 1793426037913
     },
     {
-      "id": "https://slickdeals.net/f/20234193-bose-quietcomfort-headphones-2nd-gen-wireless-over-ear-active-noise-cancelling-immersive-audio-usb-c-charging-hazelnut-taupe?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Bose - QuietComfort Headphones (2nd Gen) - Wireless, Over Ear, Active Noise Cancelling, Immersive Audio, USB-C Charging - Hazelnut Taupe",
+      "id": "https://slickdeals.net/f/20201790-kueth-6-x-9-outdoor-plastic-rug-foldable-waterproof-uv-resistant-outdoor-patio-geometric-rv-deck-rug-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "6' x 9' KUETH Plastic Straw Foldable Outdoor Rug (2 Colors) $20",
+      "store": "Reported on Slickdeals Frontpage",
+      "source": "Slickdeals Frontpage",
+      "category": "Home Goods",
+      "channel": "online",
+      "location": "",
+      "price": 20.0,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20201790-kueth-6-x-9-outdoor-plastic-rug-foldable-waterproof-uv-resistant-outdoor-patio-geometric-rv-deck-rug-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426037913
+    },
+    {
+      "id": "https://slickdeals.net/f/20212350-ridgid-16-gal-5-0-peak-hp-nxt-wet-dry-shop-vacuum-w-filter-accessories-69-88-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "RIDGID 16-Gal 5.0 Peak HP NXT Wet/Dry Shop Vacuum Kit $69.90 + Free S&H",
+      "store": "Reported on Slickdeals Frontpage",
+      "source": "Slickdeals Frontpage",
+      "category": "Home Goods",
+      "channel": "online",
+      "location": "",
+      "price": 69.9,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20212350-ridgid-16-gal-5-0-peak-hp-nxt-wet-dry-shop-vacuum-w-filter-accessories-69-88-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426037913
+    },
+    {
+      "id": "https://slickdeals.net/f/20235333-vizio-65-class-quantum-series-4k-qled-smart-tv?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "VIZIO 65\" Class Quantum Series 4K QLED Smart TV",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Electronics",
@@ -118,70 +88,85 @@
       "location": "",
       "price": null,
       "original": 0,
-      "url": "https://slickdeals.net/f/20234193-bose-quietcomfort-headphones-2nd-gen-wireless-over-ear-active-noise-cancelling-immersive-audio-usb-c-charging-hazelnut-taupe?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20235333-vizio-65-class-quantum-series-4k-qled-smart-tv?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
+      "created": 1793426038303
     },
     {
-      "id": "https://slickdeals.net/f/20234175-bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-sandstone-169?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Bose - QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones - Sandstone $169",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 169.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20234175-bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-sandstone-169?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
-    },
-    {
-      "id": "https://slickdeals.net/f/20234163-costco-members-osaki-pro-vivant-5d-a-i-full-body-massage-chair-promotion-price-until-10-31-2026-3999-99?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "[Costco Members] - Osaki Pro Vivant 5D A.I. Full-Body Massage Chair - Promotion Price until 10/31/2026 $3999.99",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
-      "category": "Furniture",
-      "channel": "online",
-      "location": "",
-      "price": 3999.99,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20234163-costco-members-osaki-pro-vivant-5d-a-i-full-body-massage-chair-promotion-price-until-10-31-2026-3999-99?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
-    },
-    {
-      "id": "https://slickdeals.net/f/20234118-jbl-live-780nc-bluetooth-wireless-headband-over-the-ear-noise-cancelling-headphones-2026-black-139-95?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "JBL - Live 780NC - Bluetooth Wireless Headband Over-the-ear Noise Cancelling headphones - 2026 - Black $139.95",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 139.95,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20234118-jbl-live-780nc-bluetooth-wireless-headband-over-the-ear-noise-cancelling-headphones-2026-black-139-95?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
-    },
-    {
-      "id": "https://slickdeals.net/f/20234088-ainfox-7-5-11-ft-patio-umbrella-mosquito-net-no-umbrella-5-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Ainfox 7.5-11 FT Patio Umbrella Mosquito Net (No Umbrella) $5.99 + Free Shipping",
+      "id": "https://slickdeals.net/f/20235327-bobsweep-bio-self-empty-robot-vacuum-mop-w-100-day-dock-reusable-activated-charcoal-odor-filtration-bags-made-of-bio-plastic-riverstone-219-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "bObsweep - Bio Self-Empty Robot Vacuum & Mop w. 100-Day Dock, Reusable Activated Charcoal Odor Filtration Bags, Made of Bio-Plastic - Riverstone $219.99 Bestbuy.com",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 5.99,
+      "price": 219.99,
       "original": 0,
-      "url": "https://slickdeals.net/f/20234088-ainfox-7-5-11-ft-patio-umbrella-mosquito-net-no-umbrella-5-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20235327-bobsweep-bio-self-empty-robot-vacuum-mop-w-100-day-dock-reusable-activated-charcoal-odor-filtration-bags-made-of-bio-plastic-riverstone-219-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281156
+      "created": 1793426038303
+    },
+    {
+      "id": "https://slickdeals.net/f/20235324-whirlpool-21-3-cu-ft-wide-top-freezer-refrigerator-with-total-coverage-cooling-black-699-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Whirlpool - 21.3 Cu. Ft. Wide Top Freezer Refrigerator with Total Coverage Cooling - Black $699.99 Bestbuy.com",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Kitchen Appliances",
+      "channel": "online",
+      "location": "",
+      "price": 699.99,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20235324-whirlpool-21-3-cu-ft-wide-top-freezer-refrigerator-with-total-coverage-cooling-black-699-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426038303
+    },
+    {
+      "id": "https://slickdeals.net/f/20235315-save-up-to-50-on-select-jlab-computer-accessories-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Save up to 50% on select JLab computer Accessories Bestbuy.com",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Electronics",
+      "channel": "online",
+      "location": "",
+      "price": null,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20235315-save-up-to-50-on-select-jlab-computer-accessories-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426038303
+    },
+    {
+      "id": "https://slickdeals.net/f/20235312-panasonic-countertop-microwave-oven-900w-0-9-cu-ft-sensor-cook-and-reheat-10-power-levels-nn-sb44qs-black-stainless-steel-89-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Panasonic - Countertop Microwave Oven, 900W, 0.9 Cu. Ft., Sensor Cook and Reheat, 10 Power Levels - NN-SB44QS - Black Stainless Steel $89.99 Bestbuy.com",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Kitchen Appliances",
+      "channel": "online",
+      "location": "",
+      "price": 89.99,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20235312-panasonic-countertop-microwave-oven-900w-0-9-cu-ft-sensor-cook-and-reheat-10-power-levels-nn-sb44qs-black-stainless-steel-89-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426038303
+    },
+    {
+      "id": "https://slickdeals.net/f/20235306-lg-flushfit-24-in-top-control-smart-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-1-hour-wash-and-dry-46dba-stainless-steel-699-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "LG - FlushFit 24-in Top Control Smart Built-In Stainless Steel Tub Dishwasher with 3rd Rack, 1-Hour Wash and Dry, 46dBA - Stainless Steel $699.99 Bestbuy.com",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Kitchen Appliances",
+      "channel": "online",
+      "location": "",
+      "price": 699.99,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20235306-lg-flushfit-24-in-top-control-smart-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-1-hour-wash-and-dry-46dba-stainless-steel-699-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426038303
     },
     {
       "id": "https://slickdeals.net/f/20233212-asleep-act-1-free-on-steam-ends-nov-2?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -196,7 +181,7 @@
       "url": "https://slickdeals.net/f/20233212-asleep-act-1-free-on-steam-ends-nov-2?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20233203-my-darkest-witch-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -211,7 +196,7 @@
       "url": "https://slickdeals.net/f/20233203-my-darkest-witch-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20232846-gog-com-a-new-beginning-final-cut-free-giveaway?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -226,7 +211,7 @@
       "url": "https://slickdeals.net/f/20232846-gog-com-a-new-beginning-final-cut-free-giveaway?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20231274-molokaust-lights-on-my-screen-civimax-hellbound-reign-of-el-diablo-going-for-nuts-kuentame-octane100-itch-io?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -241,7 +226,7 @@
       "url": "https://slickdeals.net/f/20231274-molokaust-lights-on-my-screen-civimax-hellbound-reign-of-el-diablo-going-for-nuts-kuentame-octane100-itch-io?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20228979-openai-100-00-in-codex-credits-for-eligible-students-reg-100-00-100-off-from-0-00?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -256,7 +241,7 @@
       "url": "https://slickdeals.net/f/20228979-openai-100-00-in-codex-credits-for-eligible-students-reg-100-00-100-off-from-0-00?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20228595-for-prime-members-amazon-luna-digital-games-kiborg-trash-goblin?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -271,7 +256,7 @@
       "url": "https://slickdeals.net/f/20228595-for-prime-members-amazon-luna-digital-games-kiborg-trash-goblin?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20228583-hexologic-autumn-s-end-part-1-free-on-steam-ends-oct-31?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -286,7 +271,7 @@
       "url": "https://slickdeals.net/f/20228583-hexologic-autumn-s-end-part-1-free-on-steam-ends-oct-31?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20227650-free-epic-store-games-sorry-we-re-closed-pc-galaxy-kart-ios-android-10-29-11-05?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -301,7 +286,7 @@
       "url": "https://slickdeals.net/f/20227650-free-epic-store-games-sorry-we-re-closed-pc-galaxy-kart-ios-android-10-29-11-05?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20226774-collection-of-20-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -316,7 +301,7 @@
       "url": "https://slickdeals.net/f/20226774-collection-of-20-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20223747-playstation-plus-members-november-monthly-games-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2-ps5-ps4?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -331,7 +316,7 @@
       "url": "https://slickdeals.net/f/20223747-playstation-plus-members-november-monthly-games-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2-ps5-ps4?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20212056-ancient-evil-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -346,7 +331,7 @@
       "url": "https://slickdeals.net/f/20212056-ancient-evil-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20209692-free-mozilla-firefox-vpn-built-in-50gb-per-month?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -361,7 +346,7 @@
       "url": "https://slickdeals.net/f/20209692-free-mozilla-firefox-vpn-built-in-50gb-per-month?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20208609-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -376,7 +361,7 @@
       "url": "https://slickdeals.net/f/20208609-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20204823-they-might-be-giants-cast-your-pod-to-the-wind-digital-album-download-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -391,7 +376,7 @@
       "url": "https://slickdeals.net/f/20204823-they-might-be-giants-cast-your-pod-to-the-wind-digital-album-download-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20202129-mafia-hotel-free-on-epic-store-ends-nov-1?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -406,7 +391,7 @@
       "url": "https://slickdeals.net/f/20202129-mafia-hotel-free-on-epic-store-ends-nov-1?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20201328-free-football-inspired-movie-from-microsoft-rewards?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -421,7 +406,7 @@
       "url": "https://slickdeals.net/f/20201328-free-football-inspired-movie-from-microsoft-rewards?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20194773-hitman-absolution-nintendo-switch-2-edition-upgrade-pack-free-via-eshop-9-99-on-november-4th?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -436,7 +421,7 @@
       "url": "https://slickdeals.net/f/20194773-hitman-absolution-nintendo-switch-2-edition-upgrade-pack-free-via-eshop-9-99-on-november-4th?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20193798-for-prime-members-amazon-luna-digital-games-time-travel-escape-room-game-ad-infinitum?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -451,7 +436,7 @@
       "url": "https://slickdeals.net/f/20193798-for-prime-members-amazon-luna-digital-games-time-travel-escape-room-game-ad-infinitum?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20192961-free-epic-store-games-home-a-unique-horror-adventure-pc-ios-android-sker-ritual-pc-10-22-10-29?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -466,7 +451,7 @@
       "url": "https://slickdeals.net/f/20192961-free-epic-store-games-home-a-unique-horror-adventure-pc-ios-android-sker-ritual-pc-10-22-10-29?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20192232-cyberpunk-2077-edgerunners-2-5-free-dlc-various-platforms?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -481,22 +466,7 @@
       "url": "https://slickdeals.net/f/20192232-cyberpunk-2077-edgerunners-2-5-free-dlc-various-platforms?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
-    },
-    {
-      "id": "https://slickdeals.net/f/20188512-the-clock-that-stopped-christmas-by-bruce-miller-kindle-ebook-free-oct-20-24?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "The Clock That Stopped Christmas by Bruce Miller (Kindle eBook) - FREE (Oct 20–24)",
-      "store": "Reported on Slickdeals Freebies",
-      "source": "Slickdeals Freebies",
-      "category": "Freebies",
-      "channel": "online",
-      "location": "",
-      "price": null,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20188512-the-clock-that-stopped-christmas-by-bruce-miller-kindle-ebook-free-oct-20-24?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20183796-ice-cream-hero-pc-digital-download-free-steam?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -511,7 +481,7 @@
       "url": "https://slickdeals.net/f/20183796-ice-cream-hero-pc-digital-download-free-steam?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20183568-schism-kindle-5-book-set-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -526,7 +496,7 @@
       "url": "https://slickdeals.net/f/20183568-schism-kindle-5-book-set-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20183166-free-kindle-ebook-teach-ai-your-company-how-to-turn-knowledge-trapped-in-your-company-into-enterprise-value?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -541,7 +511,7 @@
       "url": "https://slickdeals.net/f/20183166-free-kindle-ebook-teach-ai-your-company-how-to-turn-knowledge-trapped-in-your-company-into-enterprise-value?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
     },
     {
       "id": "https://slickdeals.net/f/20182734-select-amazon-prime-members-via-prime-video-scan-to-receive-your-6-prime-video-credit?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -556,7 +526,22 @@
       "url": "https://slickdeals.net/f/20182734-select-amazon-prime-members-via-prime-video-scan-to-receive-your-6-prime-video-credit?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793399281739
+      "created": 1793426038708
+    },
+    {
+      "id": "https://slickdeals.net/f/20179884-packet-loss-pc-digital-download-free-at-microsoft-store?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Packet Loss (PC Digital Download) Free at Microsoft Store",
+      "store": "Reported on Slickdeals Freebies",
+      "source": "Slickdeals Freebies",
+      "category": "Freebies",
+      "channel": "online",
+      "location": "",
+      "price": null,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20179884-packet-loss-pc-digital-download-free-at-microsoft-store?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793426038708
     }
   ]
 }

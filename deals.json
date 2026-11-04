@@ -1,161 +1,146 @@
 {
-  "updated_at": "2026-11-04T01:27:28.051104+00:00",
+  "updated_at": "2026-11-04T19:51:23.802606+00:00",
   "source_type": "community-reported RSS",
   "errors": [],
   "deals": [
     {
-      "id": "https://slickdeals.net/f/20251929-5-97-clorox-toilet-bowl-brush-plunger-combo-set-w-storage-caddy-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Clorox Toilet Bowl Brush & Plunger Combo Set w/ Storage Caddy $5.95",
+      "id": "https://slickdeals.net/f/20252004-13-98-24-oz-contigo-snapseal-stainless-steel-vacuum-insulated-water-bottle-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "24-Oz Contigo SnapSeal Stainless Steel Vacuum-Insulated Water Bottle from $14",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 5.95,
+      "price": 14.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20251929-5-97-clorox-toilet-bowl-brush-plunger-combo-set-w-storage-caddy-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20252004-13-98-24-oz-contigo-snapseal-stainless-steel-vacuum-insulated-water-bottle-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755646859
+      "created": 1793821883067
     },
     {
-      "id": "https://slickdeals.net/f/20239002-pdp-afterglow-wave-wireless-rgb-full-motion-gaming-controller-for-switch-white-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "PDP Afterglow Wave Wireless RGB Full Motion Gaming Controller for Switch (White) $30",
+      "id": "https://slickdeals.net/f/20250009-legion-tower-5i-gen-10-intel-ultra-7-255hx-rtx-5070-ti-32gb-ddr5-1tb-ssd-2256-24?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "Legion Tower 5i Gen 10 Desktop: Ultra 7 255HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD $2256 & More + Free S&H",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 30.0,
+      "price": 2256.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20239002-pdp-afterglow-wave-wireless-rgb-full-motion-gaming-controller-for-switch-white-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20250009-legion-tower-5i-gen-10-intel-ultra-7-255hx-rtx-5070-ti-32gb-ddr5-1tb-ssd-2256-24?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755646859
+      "created": 1793821883067
     },
     {
-      "id": "https://slickdeals.net/f/20247504-nikon-z-8-professional-full-frame-mirrorless-stills-video-hybrid-camera-nikon-usa-model-3196-95?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Nikon Z8 Mirrorless Hybrid Camera (Body Only) $3196.95 + Free S&H",
+      "id": "https://slickdeals.net/f/20254257-14-23-2-gallons-odoban-multipurpose-cleaner-concentrate-original-eucalyptus-scent-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "2-Gallons OdoBan Multipurpose Cleaner Concentrate (Original Eucalyptus Scent) $14.25",
+      "store": "Reported on Slickdeals Frontpage",
+      "source": "Slickdeals Frontpage",
+      "category": "Home Goods",
+      "channel": "online",
+      "location": "",
+      "price": 14.25,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20254257-14-23-2-gallons-odoban-multipurpose-cleaner-concentrate-original-eucalyptus-scent-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793821883067
+    },
+    {
+      "id": "https://slickdeals.net/f/20244240-anbernic-rg-rotate-retro-gaming-handheld-plastic-69-71-metal-79-18-free-s-h-aliexpress?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "Anbernic RG Rotate Retro Gaming Handheld: Metal $79.85, Plastic $69.70 + Free S&H",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 3196.95,
+      "price": 79.85,
       "original": 0,
-      "url": "https://slickdeals.net/f/20247504-nikon-z-8-professional-full-frame-mirrorless-stills-video-hybrid-camera-nikon-usa-model-3196-95?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20244240-anbernic-rg-rotate-retro-gaming-handheld-plastic-69-71-metal-79-18-free-s-h-aliexpress?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755646860
+      "created": 1793821883067
     },
     {
-      "id": "https://slickdeals.net/f/20246793-refurb-sony-wh-1000xm5-wireless-noise-canceling-headphones-black-128-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Refurb: Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black) $128 + Free S&H",
-      "store": "Reported on Slickdeals Frontpage",
-      "source": "Slickdeals Frontpage",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 128.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20246793-refurb-sony-wh-1000xm5-wireless-noise-canceling-headphones-black-128-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755646860
-    },
-    {
-      "id": "https://slickdeals.net/f/20252382-ryobi-one-18v-cordless-power-scrubber-kit-w-2-0ah-battery-charger-69-00-free-store-pickup-at-home-depot?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Ryobi ONE+ 18V Cordless Power Scrubber Kit w/ 2.0Ah Battery & Charger $69.00 + Free Store Pickup at Home Depot",
+      "id": "https://slickdeals.net/f/20256282-tiluck-stainless-steel-measuring-cups-spoons-set-cups-and-spoons-stainless-steel-nesting-measure-cups-kitchen-gadgets-for-cooking-baking-12-11-49?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "TILUCK Stainless Steel Measuring Cups & Spoons Set, Cups and Spoons | Stainless Steel Nesting Measure Cups , Kitchen Gadgets for Cooking & Baking (12) $11.49",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 69.0,
+      "price": 11.49,
       "original": 0,
-      "url": "https://slickdeals.net/f/20252382-ryobi-one-18v-cordless-power-scrubber-kit-w-2-0ah-battery-charger-69-00-free-store-pickup-at-home-depot?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20256282-tiluck-stainless-steel-measuring-cups-spoons-set-cups-and-spoons-stainless-steel-nesting-measure-cups-kitchen-gadgets-for-cooking-baking-12-11-49?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755647476
+      "created": 1793821883412
     },
     {
-      "id": "https://slickdeals.net/f/20252358-the-complete-rankin-bass-christmas-collection-blu-ray-34-99-amazon-com?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "The Complete Rankin/Bass Christmas Collection [Blu-ray] $34.99 Amazon.com",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
-      "category": "Home Goods",
-      "channel": "online",
-      "location": "",
-      "price": 34.99,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20252358-the-complete-rankin-bass-christmas-collection-blu-ray-34-99-amazon-com?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755647476
-    },
-    {
-      "id": "https://slickdeals.net/f/20252262-2-pack-sannce-fx800-4k-8mp-outdoor-poe-security-camera-79-48-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "2-Pack SANNCE FX800 4K 8MP Outdoor PoE Security Camera $79.48 + Free Shipping",
+      "id": "https://slickdeals.net/f/20256246-dewalt-20v-max-3-tool-combo-kit-brushless-cordless-router-tool-random-orbital-sander-jig-saw-battery-and-charger-included-dck307d1p1-369?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "DEWALT 20V MAX* 3-Tool Combo Kit, Brushless Cordless Router Tool, Random Orbital Sander, Jig Saw, Battery and Charger Included (DCK307D1P1) $369",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 79.48,
+      "price": 369.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20252262-2-pack-sannce-fx800-4k-8mp-outdoor-poe-security-camera-79-48-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20256246-dewalt-20v-max-3-tool-combo-kit-brushless-cordless-router-tool-random-orbital-sander-jig-saw-battery-and-charger-included-dck307d1p1-369?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755647476
+      "created": 1793821883412
     },
     {
-      "id": "https://slickdeals.net/f/20252259-9-97-fs-stanley-wood-chisel-set-3-piece-home-depot?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "$9.97, FS, Stanley Wood Chisel Set (3-Piece), Home Depot",
+      "id": "https://slickdeals.net/f/20256243-32-pqrqp-desk-fill-light-w-stand-phone-holder-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "32\" Pqrqp Desk Fill Light w/ Stand & Phone Holder $9.99 + Free Shipping w/ Prime or on $35+",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Furniture",
+      "channel": "online",
+      "location": "",
+      "price": 9.99,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20256243-32-pqrqp-desk-fill-light-w-stand-phone-holder-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793821883412
+    },
+    {
+      "id": "https://slickdeals.net/f/20256207-festivebliss-christmas-ornaments-71-count-16-79-after-coupon?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "FestiveBliss Christmas Ornaments 71 Count - $16.79 After coupon",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 9.97,
+      "price": 16.79,
       "original": 0,
-      "url": "https://slickdeals.net/f/20252259-9-97-fs-stanley-wood-chisel-set-3-piece-home-depot?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20256207-festivebliss-christmas-ornaments-71-count-16-79-after-coupon?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755647476
+      "created": 1793821883412
     },
     {
-      "id": "https://slickdeals.net/f/20252253-reolink-omvi-x16-poe-revolutionary-16x-optical-zoom-ptz-camera-180-panoramic-view-510?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Reolink OMVI X16 PoE Revolutionary 16X Optical Zoom PTZ Camera (180° Panoramic View) $510",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 510.0,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20252253-reolink-omvi-x16-poe-revolutionary-16x-optical-zoom-ptz-camera-180-panoramic-view-510?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755647476
-    },
-    {
-      "id": "https://slickdeals.net/f/20252247-24-insignia-10-cu-ft-top-freezer-refrigerator-w-reversible-door-stainless-steel-look-349-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "24\" Insignia 10 Cu. Ft. Top-Freezer Refrigerator w/ Reversible Door (Stainless Steel Look) $349.99 + Free Store Pickup at Best Buy",
+      "id": "https://slickdeals.net/f/20256189-ninja-flip-toaster-oven-air-fryer-6-in-1-flip-up-away-for-storage-roast-toast-bake-more-sp050-silver-119?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Ninja Flip Toaster Oven & Air Fryer, 6-in-1, Flip Up & Away for Storage, Roast, Toast, Bake & More, SP050 Silver $119",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Kitchen Appliances",
       "channel": "online",
       "location": "",
-      "price": 349.99,
+      "price": 119.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20252247-24-insignia-10-cu-ft-top-freezer-refrigerator-w-reversible-door-stainless-steel-look-349-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20256189-ninja-flip-toaster-oven-air-fryer-6-in-1-flip-up-away-for-storage-roast-toast-bake-more-sp050-silver-119?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755647476
+      "created": 1793821883412
     },
     {
-      "id": "https://slickdeals.net/f/20251068-everest-the-other-side-free-fandango-movie-ticket?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Everest: The Other Side (Free Fandango Movie Ticket)",
+      "id": "https://slickdeals.net/f/20255625-10-free-kindle-ebooks-at-amazon-mystery-romance-sci-fi-spirituality?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "10 Free Kindle eBooks at Amazon — Mystery, Romance, Sci-Fi & Spirituality",
       "store": "Reported on Slickdeals Freebies",
       "source": "Slickdeals Freebies",
       "category": "Freebies",
@@ -163,10 +148,25 @@
       "location": "",
       "price": null,
       "original": 0,
-      "url": "https://slickdeals.net/f/20251068-everest-the-other-side-free-fandango-movie-ticket?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20255625-10-free-kindle-ebooks-at-amazon-mystery-romance-sci-fi-spirituality?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
+    },
+    {
+      "id": "https://slickdeals.net/f/20254191-letter-quest-grimm-s-journey-remastered-pc-steam-digital-download-free-via-fanatical-w-email-newsletter-sign-up-link-steam-account-valid-thru-11-6?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Letter Quest: Grimm's Journey Remastered (PC/Steam Digital Download) FREE via Fanatical (w/ Email Newsletter Sign-Up/Link Steam Account) (Valid thru 11/6)",
+      "store": "Reported on Slickdeals Freebies",
+      "source": "Slickdeals Freebies",
+      "category": "Freebies",
+      "channel": "online",
+      "location": "",
+      "price": null,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20254191-letter-quest-grimm-s-journey-remastered-pc-steam-digital-download-free-via-fanatical-w-email-newsletter-sign-up-link-steam-account-valid-thru-11-6?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20246724-funtoon-s-world-horror-adventure-mountain-racing-super-kids-racing-mini-edition-dark-mystery-horse-racing-maze-the-amazing-labyrinth-free-on-epic-store?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -181,7 +181,7 @@
       "url": "https://slickdeals.net/f/20246724-funtoon-s-world-horror-adventure-mountain-racing-super-kids-racing-mini-edition-dark-mystery-horse-racing-maze-the-amazing-labyrinth-free-on-epic-store?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20246283-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -196,7 +196,7 @@
       "url": "https://slickdeals.net/f/20246283-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20245773-math-fun-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -211,7 +211,7 @@
       "url": "https://slickdeals.net/f/20245773-math-fun-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20245749-balloon-strike-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -226,7 +226,7 @@
       "url": "https://slickdeals.net/f/20245749-balloon-strike-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20241735-highway-driving-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -241,7 +241,7 @@
       "url": "https://slickdeals.net/f/20241735-highway-driving-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20241615-packet-loss-pc-digital-download-free-at-microsoft-store?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -256,7 +256,7 @@
       "url": "https://slickdeals.net/f/20241615-packet-loss-pc-digital-download-free-at-microsoft-store?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20240718-last-gambit-pcdd-steam-free-until-nov-13-at-steam?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -271,7 +271,7 @@
       "url": "https://slickdeals.net/f/20240718-last-gambit-pcdd-steam-free-until-nov-13-at-steam?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20239455-free-ebook-on-amazon-tangled-justice-prosecutor-kasey-landon-investigates-murder-and-corruption-among-california-s-powerful-elite-the-tangled-series-book-1?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -286,7 +286,7 @@
       "url": "https://slickdeals.net/f/20239455-free-ebook-on-amazon-tangled-justice-prosecutor-kasey-landon-investigates-murder-and-corruption-among-california-s-powerful-elite-the-tangled-series-book-1?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20239242-gladiator-blades-of-fury-epic-world-hunt-for-quest-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -301,7 +301,7 @@
       "url": "https://slickdeals.net/f/20239242-gladiator-blades-of-fury-epic-world-hunt-for-quest-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20239206-free-kindle-books-november-2026-first-reads-for-amazon-prime-members?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -316,7 +316,7 @@
       "url": "https://slickdeals.net/f/20239206-free-kindle-books-november-2026-first-reads-for-amazon-prime-members?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20236857-for-kids-quiztopia-the-ultimate-trivia-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -331,7 +331,7 @@
       "url": "https://slickdeals.net/f/20236857-for-kids-quiztopia-the-ultimate-trivia-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20233212-asleep-act-1-free-on-steam-ends-nov-2?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -346,7 +346,7 @@
       "url": "https://slickdeals.net/f/20233212-asleep-act-1-free-on-steam-ends-nov-2?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20233203-my-darkest-witch-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -361,7 +361,7 @@
       "url": "https://slickdeals.net/f/20233203-my-darkest-witch-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20232846-gog-com-a-new-beginning-final-cut-free-giveaway?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -376,7 +376,7 @@
       "url": "https://slickdeals.net/f/20232846-gog-com-a-new-beginning-final-cut-free-giveaway?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20231274-molokaust-lights-on-my-screen-civimax-hellbound-reign-of-el-diablo-going-for-nuts-kuentame-octane100-itch-io?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -391,7 +391,7 @@
       "url": "https://slickdeals.net/f/20231274-molokaust-lights-on-my-screen-civimax-hellbound-reign-of-el-diablo-going-for-nuts-kuentame-octane100-itch-io?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20228979-openai-100-00-in-codex-credits-for-eligible-students-reg-100-00-100-off-from-0-00?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -406,7 +406,7 @@
       "url": "https://slickdeals.net/f/20228979-openai-100-00-in-codex-credits-for-eligible-students-reg-100-00-100-off-from-0-00?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20228595-for-prime-members-amazon-luna-digital-games-kiborg-trash-goblin?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -421,7 +421,7 @@
       "url": "https://slickdeals.net/f/20228595-for-prime-members-amazon-luna-digital-games-kiborg-trash-goblin?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20227650-free-epic-store-games-sorry-we-re-closed-pc-galaxy-kart-ios-android-10-29-11-05?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -436,7 +436,7 @@
       "url": "https://slickdeals.net/f/20227650-free-epic-store-games-sorry-we-re-closed-pc-galaxy-kart-ios-android-10-29-11-05?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20226774-collection-of-20-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -451,7 +451,7 @@
       "url": "https://slickdeals.net/f/20226774-collection-of-20-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20223747-playstation-plus-members-november-monthly-games-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2-ps5-ps4?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -466,7 +466,7 @@
       "url": "https://slickdeals.net/f/20223747-playstation-plus-members-november-monthly-games-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2-ps5-ps4?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20212056-ancient-evil-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -481,7 +481,7 @@
       "url": "https://slickdeals.net/f/20212056-ancient-evil-free-on-indiegala?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20209692-free-mozilla-firefox-vpn-50gb-per-month?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -496,7 +496,7 @@
       "url": "https://slickdeals.net/f/20209692-free-mozilla-firefox-vpn-50gb-per-month?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648050
+      "created": 1793821883802
     },
     {
       "id": "https://slickdeals.net/f/20208609-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -511,22 +511,7 @@
       "url": "https://slickdeals.net/f/20208609-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648051
-    },
-    {
-      "id": "https://slickdeals.net/f/20204823-they-might-be-giants-cast-your-pod-to-the-wind-digital-album-download-free?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "They Might Be Giants: Cast Your Pod to the Wind (Digital Album Download) - FREE",
-      "store": "Reported on Slickdeals Freebies",
-      "source": "Slickdeals Freebies",
-      "category": "Freebies",
-      "channel": "online",
-      "location": "",
-      "price": null,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20204823-they-might-be-giants-cast-your-pod-to-the-wind-digital-album-download-free?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1793755648051
+      "created": 1793821883802
     }
   ]
 }

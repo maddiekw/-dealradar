@@ -1,142 +1,232 @@
 {
-  "updated_at": "2026-11-15T06:44:45.364935+00:00",
+  "updated_at": "2026-11-15T16:26:35.454616+00:00",
   "source_type": "community-reported RSS",
   "errors": [],
   "deals": [
     {
-      "id": "https://slickdeals.net/f/20304609-costco-members-27-msi-qd-oled-1440p-240hz-0-03ms-gaming-monitor-mag-274qpct-qd-oled-x24-299-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Costco Members: 27\" MSI QD-OLED 1440p 240Hz 0.03ms Gaming Monitor $300 + Free S&H",
+      "id": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-263-15-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "DJI Osmo Pocket 3 4K Pocket Gimbal Camera $263.15 + Free S&H",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 300.0,
+      "price": 263.15,
       "original": 0,
-      "url": "https://slickdeals.net/f/20304609-costco-members-27-msi-qd-oled-1440p-240hz-0-03ms-gaming-monitor-mag-274qpct-qd-oled-x24-299-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-263-15-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084432
+      "created": 1794759994516
     },
     {
-      "id": "https://slickdeals.net/f/20309634-skullcandy-crusher-anc-2-over-the-ear-noise-canceling-wireless-headphones-black-tan-119-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Skullcandy Crusher ANC 2 Over-Ear Noise Canceling Wireless Headphones (Black/Tan) $120 + Free S&H",
+      "id": "https://slickdeals.net/f/20311320-u-by-bedsure-quilted-waterproof-mattress-pad-queen-10-full-14-99-king-16-99-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "U by Bedsure Quilted Waterproof Mattress Topper Pads: Queen $10 & More",
+      "store": "Reported on Slickdeals Frontpage",
+      "source": "Slickdeals Frontpage",
+      "category": "Furniture",
+      "channel": "online",
+      "location": "",
+      "price": 10.0,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20311320-u-by-bedsure-quilted-waterproof-mattress-pad-queen-10-full-14-99-king-16-99-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994516
+    },
+    {
+      "id": "https://slickdeals.net/f/20313207-apple-airpods-pro-3-wireless-earbuds-179-99-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "Apple AirPods Pro 3 Wireless Earbuds $180 + Free S&H",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 120.0,
+      "price": 180.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20309634-skullcandy-crusher-anc-2-over-the-ear-noise-canceling-wireless-headphones-black-tan-119-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20313207-apple-airpods-pro-3-wireless-earbuds-179-99-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084432
+      "created": 1794759994516
     },
     {
-      "id": "https://slickdeals.net/f/20310204-insignia-55-qf-series-qled-4k-uhd-fire-tv-ns55-uqfl26-200-199-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "55\" Insignia QF Series QLED 4K UHD Smart TV (2025 Model) $200 + Free S&H",
+      "id": "https://slickdeals.net/f/20303781-50-hisense-m7-miniled-4k-uhd-60hz-smart-roku-tv-2026-250-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "50\" Hisense M7 MiniLED 4K UHD 60Hz Smart Roku TV (2026) $250 + Free S&H",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 200.0,
+      "price": 250.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20310204-insignia-55-qf-series-qled-4k-uhd-fire-tv-ns55-uqfl26-200-199-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20303781-50-hisense-m7-miniled-4k-uhd-60hz-smart-roku-tv-2026-250-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084432
+      "created": 1794759994516
     },
     {
-      "id": "https://slickdeals.net/f/20305632-baseus-bass-bp1-nc-hybrid-active-noise-cancelling-wireless-earbuds-3-colors-13-99-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "title": "Baseus Bass BP1 NC Hybrid Active Noise Cancelling Wireless Earbuds (3 Colors) $14",
+      "id": "https://slickdeals.net/f/20311398-ridgid-pro-gear-system-gen-2-0-6-compartment-modular-tool-small-parts-organizer-19-98-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "title": "RIDGID Pro Gear System Multi-Section Tool & Small Parts Organizer (Gen 2.0) $20 + Free S&H",
       "store": "Reported on Slickdeals Frontpage",
       "source": "Slickdeals Frontpage",
+      "category": "Home Goods",
+      "channel": "online",
+      "location": "",
+      "price": 20.0,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20311398-ridgid-pro-gear-system-gen-2-0-6-compartment-modular-tool-small-parts-organizer-19-98-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994517
+    },
+    {
+      "id": "https://slickdeals.net/f/20314641-portable-mini-projector-with-wifi-projector-rotatable-with-electronic-focus-mini-projector-rotatable-with-electronic-focus-auto-keystone-correction-for-home-theater-49-99?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Portable Mini Projector with WiFi Projector Rotatable with Electronic Focus Mini Projector Rotatable with Electronic Focus & Auto Keystone Correction for Home Theater $49.99",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 14.0,
+      "price": 49.99,
       "original": 0,
-      "url": "https://slickdeals.net/f/20305632-baseus-bass-bp1-nc-hybrid-active-noise-cancelling-wireless-earbuds-3-colors-13-99-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20314641-portable-mini-projector-with-wifi-projector-rotatable-with-electronic-focus-mini-projector-rotatable-with-electronic-focus-auto-keystone-correction-for-home-theater-49-99?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084432
+      "created": 1794759994965
     },
     {
-      "id": "https://slickdeals.net/f/20312457-anker-solix-s2000-portable-power-station-w-2-100w-bifacial-solar-panel-peak-3000w-solar-generator-for-emrgency-home-backup-2010-wh-capacity-899-98-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Anker - SOLIX S2000 Portable Power Station w/ 2*100W Bifacial Solar Panel,Peak 3000W Solar Generator for Emrgency&Home Backup (2010 Wh Capacity) $899.98 Bestbuy.com",
+      "id": "https://slickdeals.net/f/20314611-monster-2-in-1-rgbic-smart-floor-table-lamp-w-app-voice-control-music-sync-35-free-shipping-w-walmart-or-orders-35?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Monster 2-in-1 RGBIC Smart Floor & Table Lamp w/ App & Voice Control & Music Sync $35 + Free Shipping w/ Walmart+ or orders $35+",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 899.98,
+      "price": 35.0,
       "original": 0,
-      "url": "https://slickdeals.net/f/20312457-anker-solix-s2000-portable-power-station-w-2-100w-bifacial-solar-panel-peak-3000w-solar-generator-for-emrgency-home-backup-2010-wh-capacity-899-98-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20314611-monster-2-in-1-rgbic-smart-floor-table-lamp-w-app-voice-control-music-sync-35-free-shipping-w-walmart-or-orders-35?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084816
+      "created": 1794759994965
     },
     {
-      "id": "https://slickdeals.net/f/20312451-powera-ops-v3-pro-wireless-controller-for-pc-and-cloud-gaming-with-lumectra-35-98-64-off?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "PowerA OPS v3 Pro Wireless Controller for PC and Cloud Gaming with Lumectra – $35.98 (64% Off)",
+      "id": "https://slickdeals.net/f/20314602-jbl-tune-670nc-wireless-on-ear-headphones-w-adaptive-noise-cancelling-blue-black-or-white-49-95-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "JBL Tune 670NC Wireless On-Ear Headphones w/ Adaptive Noise Cancelling (Blue, Black or White) $49.95 + Free Shipping",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 35.98,
+      "price": 49.95,
       "original": 0,
-      "url": "https://slickdeals.net/f/20312451-powera-ops-v3-pro-wireless-controller-for-pc-and-cloud-gaming-with-lumectra-35-98-64-off?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20314602-jbl-tune-670nc-wireless-on-ear-headphones-w-adaptive-noise-cancelling-blue-black-or-white-49-95-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084816
+      "created": 1794759994965
     },
     {
-      "id": "https://slickdeals.net/f/20312430-hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver-399-99-50-off?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "HP OmniBook 3 17.3\" Full HD Laptop – Intel Core 3 304 (2026) – 8GB Memory – 256GB SSD – Mica Silver – $399.99 (50% Off)",
-      "store": "Reported on Slickdeals Hot Deals",
-      "source": "Slickdeals Hot Deals",
-      "category": "Electronics",
-      "channel": "online",
-      "location": "",
-      "price": 399.99,
-      "original": 0,
-      "url": "https://slickdeals.net/f/20312430-hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver-399-99-50-off?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "status": "unverified",
-      "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084816
-    },
-    {
-      "id": "https://slickdeals.net/f/20312406-zulay-kitchen-premium-gift-milk-frother-complete-set-handheld-foam-maker-stencils-frother-set-black-19-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "Zulay Kitchen - Premium Gift Milk Frother Complete Set - Handheld Foam Maker, Stencils & Frother Set - Black $19.99 Bestbuy.com",
+      "id": "https://slickdeals.net/f/20314578-200-led-cool-white-christmas-tree-lights-voice-control-66ft-connectable-string-lights-8-99?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "200 LED Cool White Christmas Tree Lights Voice Control, 66FT Connectable String Lights $8.99",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Home Goods",
       "channel": "online",
       "location": "",
-      "price": 19.99,
+      "price": 8.99,
       "original": 0,
-      "url": "https://slickdeals.net/f/20312406-zulay-kitchen-premium-gift-milk-frother-complete-set-handheld-foam-maker-stencils-frother-set-black-19-99-bestbuy-com?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20314578-200-led-cool-white-christmas-tree-lights-voice-control-66ft-connectable-string-lights-8-99?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084817
+      "created": 1794759994965
     },
     {
-      "id": "https://slickdeals.net/f/20312388-249-95-jbl-authentics-300-portable-smart-speaker-with-voice-control-black-white-at-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
-      "title": "$249.95: JBL Authentics 300 Portable Smart Speaker with Voice Control - Black/White at Amazon",
+      "id": "https://slickdeals.net/f/20314563-ai-translation-earbuds-real-time-29-79?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "AI Translation Earbuds Real Time $29.79",
       "store": "Reported on Slickdeals Hot Deals",
       "source": "Slickdeals Hot Deals",
       "category": "Electronics",
       "channel": "online",
       "location": "",
-      "price": 249.95,
+      "price": 29.79,
       "original": 0,
-      "url": "https://slickdeals.net/f/20312388-249-95-jbl-authentics-300-portable-smart-speaker-with-voice-control-black-white-at-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20314563-ai-translation-earbuds-real-time-29-79?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725084817
+      "created": 1794759994965
+    },
+    {
+      "id": "https://slickdeals.net/f/20314542-oster-11-qt-dual-zone-air-fryer-oven-w-6-cooking-functions-8-accessories-99-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Oster 11-Qt Dual Zone Air Fryer Oven w/ 6 Cooking Functions & 8 Accessories $99.99 + Free Shipping",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Kitchen Appliances",
+      "channel": "online",
+      "location": "",
+      "price": 99.99,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20314542-oster-11-qt-dual-zone-air-fryer-oven-w-6-cooking-functions-8-accessories-99-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994965
+    },
+    {
+      "id": "https://slickdeals.net/f/20314539-technics-eah-az100-reference-class-true-wireless-earbuds-champagne-gold-197-99?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Technics EAH-AZ100 Reference-Class True Wireless Earbuds (Champagne Gold) $197.99",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Electronics",
+      "channel": "online",
+      "location": "",
+      "price": 197.99,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20314539-technics-eah-az100-reference-class-true-wireless-earbuds-champagne-gold-197-99?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994965
+    },
+    {
+      "id": "https://slickdeals.net/f/20314536-portable-bluetooth-speaker-20w-stereo-sound-outdoor-21-68?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Portable Bluetooth Speaker, 20W Stereo Sound Outdoor $21.68",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Electronics",
+      "channel": "online",
+      "location": "",
+      "price": 21.68,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20314536-portable-bluetooth-speaker-20w-stereo-sound-outdoor-21-68?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994965
+    },
+    {
+      "id": "https://slickdeals.net/f/20314515-under-cabinet-lighting-54-led-motion-sensor-2-pack-10-42?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Under Cabinet Lighting, 54 LED Motion Sensor - 2 Pack $10.42",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Furniture",
+      "channel": "online",
+      "location": "",
+      "price": 10.42,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20314515-under-cabinet-lighting-54-led-motion-sensor-2-pack-10-42?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994965
+    },
+    {
+      "id": "https://slickdeals.net/f/20314500-bluetooth-speaker-waterproof-shower-speaker-ipx7-24-68?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "title": "Bluetooth Speaker, Waterproof Shower Speaker, IPX7 $24.68",
+      "store": "Reported on Slickdeals Hot Deals",
+      "source": "Slickdeals Hot Deals",
+      "category": "Electronics",
+      "channel": "online",
+      "location": "",
+      "price": 24.68,
+      "original": 0,
+      "url": "https://slickdeals.net/f/20314500-bluetooth-speaker-waterproof-shower-speaker-ipx7-24-68?utm_source=rss&utm_content=&utm_medium=RSS2",
+      "status": "unverified",
+      "notes": "Community-reported deal; price, stock and eligibility not verified.",
+      "created": 1794759994965
     },
     {
       "id": "https://slickdeals.net/f/20298693-for-prime-members-amazon-luna-digital-games-jurassic-world-evolution-2-radiolight?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -151,7 +241,7 @@
       "url": "https://slickdeals.net/f/20298693-for-prime-members-amazon-luna-digital-games-jurassic-world-evolution-2-radiolight?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20298624-10-000-free-gta-vi-games-via-kick?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -166,7 +256,7 @@
       "url": "https://slickdeals.net/f/20298624-10-000-free-gta-vi-games-via-kick?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20297676-free-epic-store-games-knightica-pc-ios-android-11-12-11-19?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -181,7 +271,7 @@
       "url": "https://slickdeals.net/f/20297676-free-epic-store-games-knightica-pc-ios-android-11-12-11-19?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20288535-free-summit-club-plus-membership-for-military-members?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -196,7 +286,7 @@
       "url": "https://slickdeals.net/f/20288535-free-summit-club-plus-membership-for-military-members?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20286348-mozilla-firefox-browser-free-vpn-with-unlimited-data-through-january-31-2027?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -211,7 +301,7 @@
       "url": "https://slickdeals.net/f/20286348-mozilla-firefox-browser-free-vpn-with-unlimited-data-through-january-31-2027?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20283369-list-of-free-kindle-books-from-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -226,7 +316,7 @@
       "url": "https://slickdeals.net/f/20283369-list-of-free-kindle-books-from-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20283174-the-rig-a-starmap-to-murder-free-on-steam-now-requires-vr-headset?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -241,7 +331,7 @@
       "url": "https://slickdeals.net/f/20283174-the-rig-a-starmap-to-murder-free-on-steam-now-requires-vr-headset?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20281947-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -256,7 +346,7 @@
       "url": "https://slickdeals.net/f/20281947-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20266884-affinity-by-canva-for-ipad-new-all-in-one-v3-app-free-for-individuals-canva-account-required?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -271,7 +361,7 @@
       "url": "https://slickdeals.net/f/20266884-affinity-by-canva-for-ipad-new-all-in-one-v3-app-free-for-individuals-canva-account-required?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20263575-10-spiritual-growth-mindfulness-yoga-kindle-books-on-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -286,7 +376,7 @@
       "url": "https://slickdeals.net/f/20263575-10-spiritual-growth-mindfulness-yoga-kindle-books-on-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20262237-for-prime-members-amazon-luna-digital-games-squirrel-with-a-gun-wrc-generations?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -301,7 +391,7 @@
       "url": "https://slickdeals.net/f/20262237-for-prime-members-amazon-luna-digital-games-squirrel-with-a-gun-wrc-generations?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20261475-free-epic-store-games-flotsam-pc-idle-champions-of-the-forgotten-realms-pc-chants-of-sennaar-ios-android-9-05-9-12?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -316,7 +406,7 @@
       "url": "https://slickdeals.net/f/20261475-free-epic-store-games-flotsam-pc-idle-champions-of-the-forgotten-realms-pc-chants-of-sennaar-ios-android-9-05-9-12?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20255625-10-free-kindle-ebooks-at-amazon-mystery-romance-sci-fi-spirituality?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -331,7 +421,7 @@
       "url": "https://slickdeals.net/f/20255625-10-free-kindle-ebooks-at-amazon-mystery-romance-sci-fi-spirituality?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20246724-funtoon-s-world-horror-adventure-mountain-racing-super-kids-racing-mini-edition-dark-mystery-horse-racing-maze-the-amazing-labyrinth-free-on-epic-store?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -346,7 +436,7 @@
       "url": "https://slickdeals.net/f/20246724-funtoon-s-world-horror-adventure-mountain-racing-super-kids-racing-mini-edition-dark-mystery-horse-racing-maze-the-amazing-labyrinth-free-on-epic-store?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20246283-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -361,7 +451,7 @@
       "url": "https://slickdeals.net/f/20246283-collection-of-free-kindle-ebooks?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20245773-math-fun-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -376,7 +466,7 @@
       "url": "https://slickdeals.net/f/20245773-math-fun-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20245749-balloon-strike-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -391,7 +481,7 @@
       "url": "https://slickdeals.net/f/20245749-balloon-strike-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20241735-highway-driving-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -406,7 +496,7 @@
       "url": "https://slickdeals.net/f/20241735-highway-driving-pcdd-epic-games-free?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20241615-packet-loss-pc-digital-download-free-at-microsoft-store?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -421,7 +511,7 @@
       "url": "https://slickdeals.net/f/20241615-packet-loss-pc-digital-download-free-at-microsoft-store?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20240718-last-gambit-pcdd-steam-free-until-nov-13-at-steam?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -436,7 +526,7 @@
       "url": "https://slickdeals.net/f/20240718-last-gambit-pcdd-steam-free-until-nov-13-at-steam?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20239455-free-ebook-on-amazon-tangled-justice-prosecutor-kasey-landon-investigates-murder-and-corruption-among-california-s-powerful-elite-the-tangled-series-book-1?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -451,7 +541,7 @@
       "url": "https://slickdeals.net/f/20239455-free-ebook-on-amazon-tangled-justice-prosecutor-kasey-landon-investigates-murder-and-corruption-among-california-s-powerful-elite-the-tangled-series-book-1?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20239242-gladiator-blades-of-fury-epic-world-hunt-for-quest-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -466,7 +556,7 @@
       "url": "https://slickdeals.net/f/20239242-gladiator-blades-of-fury-epic-world-hunt-for-quest-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20239206-free-kindle-books-november-2026-first-reads-for-amazon-prime-members?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -481,7 +571,7 @@
       "url": "https://slickdeals.net/f/20239206-free-kindle-books-november-2026-first-reads-for-amazon-prime-members?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20236857-for-kids-quiztopia-the-ultimate-trivia-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -496,7 +586,7 @@
       "url": "https://slickdeals.net/f/20236857-for-kids-quiztopia-the-ultimate-trivia-free-on-epic-store-ends-nov-8?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     },
     {
       "id": "https://slickdeals.net/f/20233212-asleep-act-1-free-on-steam-ends-nov-2?utm_source=rss&utm_content=&utm_medium=RSS2",
@@ -511,7 +601,7 @@
       "url": "https://slickdeals.net/f/20233212-asleep-act-1-free-on-steam-ends-nov-2?utm_source=rss&utm_content=&utm_medium=RSS2",
       "status": "unverified",
       "notes": "Community-reported deal; price, stock and eligibility not verified.",
-      "created": 1794725085364
+      "created": 1794759995454
     }
   ]
 }
